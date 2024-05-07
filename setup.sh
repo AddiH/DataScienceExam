@@ -13,7 +13,7 @@ python3 -m pip install --upgrade pip # ucloud version is outdated
 python3 -m pip install -r requirements.txt
 
 # download data
-#bash data/kaggle.sh
+bash data/kaggle.sh
 
 # activate kernel
 python -m ipykernel install --user --name=airbnb
