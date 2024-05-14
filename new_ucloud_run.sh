@@ -11,9 +11,6 @@ python -m ipykernel install --user --name=airbnb
 # deactivate the env
 deactivate
 
-git config --global user.email “astrid.elmann@gmail.com”
-git config --global user.name “AddiH”
-
 # In the notebook, install suggested, pcks
 # Refresh "Jyputer kernel" until airbnb shows up
 
