@@ -165,3 +165,4 @@ data/*
 !data/combine.ipynb
 !data/airbnb-prices-in-european-cities.zip
 */archive/*
+!data/clean_data.csv
