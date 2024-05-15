@@ -164,4 +164,4 @@ data/*
 !data/kaggle.sh
 !data/combine.ipynb
 !data/airbnb-prices-in-european-cities.zip
-archive/*
+*/archive/*
