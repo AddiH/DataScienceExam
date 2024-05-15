@@ -166,3 +166,5 @@ data/*
 !data/airbnb-prices-in-european-cities.zip
 */archive/*
 !data/clean_data.csv
+# dang i made a lot of rf models
+models/rf_*
