@@ -160,16 +160,6 @@ cython_debug/
 #.idea/
 
 #Additions:
-data/*
-!data/kaggle.sh
-!data/combine.ipynb
-!data/airbnb-prices-in-european-cities.zip
-!dt_performances.csv
-!knn_performances.csv
-!rf_performances.csv
-
-
 */archive/*
-!data/clean_data.csv
 # dang i made a lot of rf models
 models/rf_*
