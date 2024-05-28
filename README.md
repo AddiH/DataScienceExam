@@ -14,6 +14,8 @@ The project focuses on developing predictive models to estimate the price of Air
 - **Evaluation and Analysis**: Assess model performance, identify overfitting risks, and interpret feature importance to understand key price determinants.
 
 ## Structure
+Looking for plots? Plots included in the project are in /plots and all additional plots are in nbs/viz_DT, nbs/viz_KNN and nbs/viz_RF
+
 ```
 ├── data                    <- Directory containing the dataset files and evaluation of models
 │
